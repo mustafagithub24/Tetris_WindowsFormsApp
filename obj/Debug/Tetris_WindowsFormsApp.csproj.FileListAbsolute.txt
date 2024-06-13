@@ -1,0 +1,10 @@
+D:\githup projelerim\Tetris_WindowsFormsApp\obj\Debug\Tetris_WindowsFormsApp.csproj.AssemblyReference.cache
+D:\githup projelerim\Tetris_WindowsFormsApp\obj\Debug\Tetris_WindowsFormsApp.Form1.resources
+D:\githup projelerim\Tetris_WindowsFormsApp\obj\Debug\Tetris_WindowsFormsApp.Properties.Resources.resources
+D:\githup projelerim\Tetris_WindowsFormsApp\obj\Debug\Tetris_WindowsFormsApp.csproj.GenerateResource.cache
+D:\githup projelerim\Tetris_WindowsFormsApp\obj\Debug\Tetris_WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\githup projelerim\Tetris_WindowsFormsApp\bin\Debug\Tetris_WindowsFormsApp.exe.config
+D:\githup projelerim\Tetris_WindowsFormsApp\bin\Debug\Tetris_WindowsFormsApp.exe
+D:\githup projelerim\Tetris_WindowsFormsApp\bin\Debug\Tetris_WindowsFormsApp.pdb
+D:\githup projelerim\Tetris_WindowsFormsApp\obj\Debug\Tetris_WindowsFormsApp.exe
+D:\githup projelerim\Tetris_WindowsFormsApp\obj\Debug\Tetris_WindowsFormsApp.pdb
